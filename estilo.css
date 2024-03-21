@@ -8,6 +8,7 @@
     font-family: Segoe UI;
 }
 #passsoapasso{
+    font-size: 18px;
     font-family: Segoe UI;
 }
 h2{
@@ -20,6 +21,7 @@ h3{
 p{
     font-size: 18px;
     line-height: 28px;
+    
 }
 img{
     max-width: max-content;
