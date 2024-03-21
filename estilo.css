@@ -1,0 +1,27 @@
+#intro{
+    text-align: center;
+    font-family: Georgia;
+}
+#ingredientes{
+    font-size: 18px;
+    list-style-type: circle;
+    font-family: Segoe UI;
+}
+#passsoapasso{
+    font-family: Segoe UI;
+}
+h2{
+    color:rgb(186, 32, 0);
+}
+h3{
+    text-decoration: underline;
+    color:rgb(186, 32, 0);
+}
+p{
+    font-size: 18px;
+    line-height: 28px;
+}
+img{
+    max-width: max-content;
+    max-height: max-content;
+}
